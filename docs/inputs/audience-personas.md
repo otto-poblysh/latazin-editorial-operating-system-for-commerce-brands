@@ -63,9 +63,9 @@ How this persona discovers, consumes, and shares content. Consider: which platfo
 - **Platform Behavior:** [content discovery, consumption, and sharing patterns]
 ```
 
-## Example Persona
+## Sample Personas
 
-> This is a placeholder to demonstrate format. Replace with personas specific to the brand's actual audience.
+> These personas are sample portraits that demonstrate the format and level of specificity the system expects. Replace, rename, merge, or localize them to fit the brand's real customer base.
 
 ### The Quiet Professional
 
@@ -77,6 +77,28 @@ How this persona discovers, consumes, and shares content. Consider: which platfo
 - **Product Interests:** Bags (mid to premium), leather goods, desk accessories, travel-adjacent items. Drawn to the Studio Line and core leather goods. Responds to products described through use rather than aspiration.
 - **Seasonal Needs:** Buys for herself in early autumn (new work bag, cold-weather accessories) and in January (quiet self-investment after the holidays). Buys gifts in November and early December, but starts looking in October. Least active in summer — traveling, not shopping.
 - **Platform Behavior:** Follows a small number of brands on Instagram but rarely engages publicly. Saves posts to revisit later. Clicks through to the website to read full product descriptions. Discovers new brands through friends' recommendations or editorial features in publications she trusts. Does not use TikTok. Reads newsletters if they are well-written and infrequent.
+
+### The Intentional Gifter
+
+- **City:** Lives between a major city and a family-oriented suburb or commuter town. Comfortable ordering online but still values the logic of local ritual — birthdays, hosted dinners, annual returns to the same kinds of occasions.
+- **Lifestyle:** Buys for others as a form of judgment and care, not obligation. Keeps a running mental list of upcoming occasions. Often shops early, but can become intensely deadline-aware when life crowds the calendar. Wants gifts to feel exact, not lavish for the sake of it.
+- **Aesthetic Posture:** Likes objects that feel thoughtful, useful, and well made. Less interested in fashion novelty than in whether something looks chosen. Responds to coherence, packaging restraint, and clear rationale.
+- **Likely Objections:** "I do not want to give something that feels generic." "I need to trust that this will arrive on time and look as good in person as it does online." "If this needs too much explanation, it is probably the wrong gift."
+- **Trust Needs:** Shipping clarity, reliable delivery windows, clean visual presentation, and precise editorial framing around who a product is for and why. Wants the brand to help with selection, not overwhelm with options.
+- **Product Interests:** Small leather goods, home objects, giftable accessories, limited seasonal edits, products with high giftability and easy shipping
+- **Seasonal Needs:** Most active around Mother's Day, Father's Day, graduations, November, and early December. Also responsive to thank-you and host-gift moments in spring and summer.
+- **Platform Behavior:** Saves gift ideas on Instagram and Pinterest, forwards newsletter links to siblings or partners, and often arrives via search when looking for a specific kind of gift. More likely to convert quickly once trust is established.
+
+### The Weekend Curator
+
+- **City:** Lives in a dense neighborhood in a large city and uses the city heavily — exhibitions, restaurants, markets, short train trips, and friends' apartments form the texture of their week.
+- **Lifestyle:** Works hard during the week but treats weekends as editorial space: what to wear, what to carry, what to bring to a dinner, which part of the city to walk through. Buys to refine a way of living rather than to solve a purely practical need.
+- **Aesthetic Posture:** Responds to atmosphere, composition, and cultural signals. Open to newness if it feels selected, not trend-chasing. Likes products that belong to a world and can be read socially without being loud.
+- **Likely Objections:** "This looks nice, but is there enough substance behind it?" "Is the brand truly considered, or just borrowing editorial language?" "Will I still like this once the novelty of the image wears off?"
+- **Trust Needs:** Strong visual direction backed by material proof, consistent voice, cultural references that feel earned, and products shown in context rather than isolation.
+- **Product Interests:** Bags, travel-adjacent pieces, hosting objects, occasion accessories, visually strong products, bundle-friendly categories
+- **Seasonal Needs:** Most responsive in spring and autumn, when city life feels busiest and most visible. Summer interest centers on travel and social movement; winter interest shifts toward home-and-hosting worlds.
+- **Platform Behavior:** Discovers brands through Instagram, newsletters, tastemaker features, and friends' recommendations. Saves visually strong content and is willing to read longer pieces if the opening premise is sharp.
 
 ## Usage Notes
 

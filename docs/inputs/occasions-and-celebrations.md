@@ -68,9 +68,9 @@ Optional. Any additional context: regional naming variations, sensitivity consid
 - **Supporting Notes:** [optional additional context]
 ```
 
-## Example Entry
+## Sample Entries
 
-> This is a placeholder to demonstrate format. Replace with occasions relevant to the brand's market and audience.
+> These are sample entries that demonstrate the schema and editorial posture system. Keep, adapt, delete, or expand them based on the brand's actual markets, audiences, and sensitivities.
 
 ### Mother's Day
 
@@ -81,6 +81,36 @@ Optional. Any additional context: regional naming variations, sensitivity consid
 - **Suitable Latazin Types:** Occasion, Bundle/World, Shop the Look
 - **Product Fit:** high giftability products, premium price band, strong visual strength; categories: bags, scarves, jewelry, homeware
 - **Supporting Notes:** One of the highest gift-purchase periods of the year. Audiences expect and welcome gift guides, but generic "treat her" language should be avoided — see house voice restraint principles. Lead time: editorial content should publish 10–14 days before the date. Consider a latazin structured around the act of selection rather than the act of giving.
+
+### Eid al-Fitr
+
+- **Date or Period:** Variable; follows the lunar calendar and marks the end of Ramadan
+- **Region Relevance:** Middle East and North Africa, South Asia, Southeast Asia, diaspora audiences globally
+- **Tone:** generous, celebratory, reverent
+- **Editorial Posture:** editorial-led
+- **Suitable Latazin Types:** Occasion, Calendar Marking, Bundle/World
+- **Product Fit:** gifting-friendly products, occasion accessories, hosting and home objects; only where the brand has genuine audience relevance
+- **Supporting Notes:** Timing shifts every year. Avoid generic "festival sale" treatment unless the brand serves this audience credibly and consistently. Hospitality, visitation, dress, and acts of generosity may be more editorially appropriate than direct commerce pressure.
+
+### First Real Autumn Weekend
+
+- **Date or Period:** Climate-dependent; usually late September to mid-October
+- **Region Relevance:** Temperate-climate markets
+- **Tone:** atmospheric, grounded
+- **Editorial Posture:** editorial-led
+- **Suitable Latazin Types:** Product Argument, Bundle/World, Craft Study
+- **Product Fit:** cold-weather accessories, textured materials, daily-carry products, home-and-hosting goods
+- **Supporting Notes:** This is a seasonal transition rather than a formal holiday. It often creates stronger product relevance than a named occasion because the audience feels it physically: heavier fabrics, darker mornings, and indoor social life returning.
+
+### Black Friday / Cyber Week
+
+- **Date or Period:** Late November; Black Friday through Cyber Monday, sometimes extended across one week
+- **Region Relevance:** North America, UK, Western Europe, increasingly global e-commerce audiences
+- **Tone:** clear, disciplined
+- **Editorial Posture:** commerce-led
+- **Suitable Latazin Types:** Bundle/World, Product Argument, Occasion
+- **Product Fit:** easy-to-ship hero products, proven gift categories, bestsellers, high-trust products with strong conversion history
+- **Supporting Notes:** This occasion can quickly flatten the brand voice into generic promotion. If the brand participates, editorial value should come from selection, context, and calm decision support rather than urgency clichés. If the brand does not discount, mark the period anyway so planning can position an explicit alternative.
 
 ## Category Guidance
 

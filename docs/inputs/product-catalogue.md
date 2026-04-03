@@ -109,9 +109,9 @@ Which city contexts or lifestyle settings the product belongs to. This is not ge
 - **City Fit:** [lifestyle/setting description]
 ```
 
-## Example Entry
+## Sample Entry
 
-> This is a placeholder to demonstrate format. Replace with actual brand products.
+> This is a sample entry showing the schema in use. Replace it with the brand's actual products or duplicate it as a starting pattern when building a company-specific catalogue.
 
 ### The Everyday Folio
 

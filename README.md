@@ -83,7 +83,7 @@ The system is organized into four layers:
    These define the editorial worldview, voice, metaphors, style, and approval standards.
 
 2. **Input documents**  
-   These define what exists to talk about: products, collections, months, occasions, audiences, and prior performance.
+   These define what exists to talk about: products, collections, months, occasions, audiences, and prior performance. In this repository they are reusable templates with sample entries; each company should replace or localize them with its own data.
 
 3. **Planning documents**  
    These generate annual strategy, quarterly planning, and monthly editorial calendars.
@@ -97,6 +97,7 @@ The system is organized into four layers:
 
 ```text
 latazin-editorial-operating-system-for-commerce-brands/
+├── CHANGELOG.md
 ├── README.md
 ├── docs/
 │   ├── house/
@@ -120,8 +121,7 @@ latazin-editorial-operating-system-for-commerce-brands/
 │   │   └── latazin-content-generation-prompt.md
 │   └── references/
 │       ├── campaign-pattern-library.md
-│       ├── reference-library.md
-│       └── examples/
+│       └── reference-library.md
 ├── templates/
 │   ├── annual-plan-template.md
 │   ├── quarterly-plan-template.md
@@ -130,12 +130,20 @@ latazin-editorial-operating-system-for-commerce-brands/
 │   └── launch-strategy-template.md
 ├── brands/
 │   ├── _sample-brand/
-│   └── sterling-stitches/
-├── prompts/
-│   ├── system/
-│   ├── planning/
-│   └── generation/
-└── CHANGELOG.md
+│   │   ├── campaigns/
+│   │   ├── calendars/
+│   │   ├── collections/
+│   │   ├── latazins/
+│   │   ├── products/
+│   │   └── README.md
+│   ├── sterling-stitches/
+│   │   ├── campaigns/
+│   │   ├── calendars/
+│   │   ├── collections/
+│   │   ├── latazins/
+│   │   ├── products/
+│   │   └── README.md
+│   └── README.md
 ```
 
 ---
@@ -691,8 +699,9 @@ Latazin should help brands publish product worlds, not just product posts.
 
 ## Status
 
-Early-stage repository.  
-System architecture and core files are being defined.
+Core scaffold complete.  
+The repository is intentionally template-first: the house, planning, generation, and template layers ship ready to use, and the input layer ships with sample entries that teams can adapt for their own companies.  
+Next priority: populate brand-specific data inside `brands/` and run the full annual → quarterly → monthly → latazin cycle with live brand inputs.
 
 ---
 
