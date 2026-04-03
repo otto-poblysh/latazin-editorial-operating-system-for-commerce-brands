@@ -41,6 +41,23 @@ One brief per latazin. The monthly calendar identifies which latazins need brief
 
 ---
 
+## Planning Summary
+
+_Complete this compact summary first. These three lines define why this latazin exists. If you cannot complete all three before filling in the sections below, the brief is not ready._
+
+| Concept | This latazin |
+|---|---|
+| **Type** | _(what kind of latazin this is — one of the 12 types from the typology)_ |
+| **Trigger** | _(why it exists now — the specific reason it belongs on this month's calendar and not any other)_ |
+| **Objective** | _(the editorial or commercial outcome it must drive)_ |
+
+_Example:_
+_Type: Occasion_
+_Trigger: Easter in Abuja — a moment of public dressing with genuine ceremony logic_
+_Objective: introduce the black bubu agbada as a quiet-luxury option for high-visibility ceremonial occasions_
+
+---
+
 ## Objective
 
 _What is this latazin trying to achieve? State the editorial and commercial objective in plain language. One to three sentences._
