@@ -147,9 +147,10 @@ For each latazin, specify:
 | Field | Description |
 |---|---|
 | **Working title** | A descriptive editorial title (not final — for planning purposes) |
-| **Latazin type** | One of the 12 types from the typology (exact name) |
+| **Latazin type** | One of the 12 types from the typology (exact name) — *what kind of latazin this is* |
 | **Secondary type** | If type-mixing applies (max 2 types, secondary ≤30%), name it; otherwise "None" |
-| **Objective** | What this latazin must accomplish — editorial and/or commercial |
+| **Trigger** | Why this latazin exists *now* — the specific reason it belongs on this month's calendar and not last month's or next month's. Examples: new collection launching, seasonal shift, occasion approaching, product restocked, misconception identified, performance gap surfaced, milestone reached |
+| **Objective** | What this latazin must accomplish — *the editorial or commercial outcome it must drive* (state both if applicable) |
 | **Target persona** | Primary audience persona this latazin addresses |
 | **Products attached** | Specific products from the catalogue (by exact name) |
 | **Collection/drop context** | If supporting a launch, name the collection; otherwise "None" |
@@ -250,7 +251,8 @@ List 3–5 specific questions that the editorial team should discuss before appr
 |---|---|
 | **Type** | [Exact type name] |
 | **Secondary type** | [Type name or None] |
-| **Objective** | [Specific objective] |
+| **Trigger** | [Why this latazin exists now — the specific reason it belongs on this month's calendar] |
+| **Objective** | [Specific editorial and/or commercial objective] |
 | **Target persona** | [Persona name] |
 | **Products attached** | [Product names] |
 | **Collection/drop** | [Collection name or None] |
@@ -320,7 +322,7 @@ Before finalizing the monthly calendar, verify each of the following:
 - [ ] **Persona rotation:** At least two different personas are addressed across the month; no persona monopolizes the calendar
 - [ ] **Weekly rhythm:** The four weeks have distinct arcs — not four identical weeks of "publish a latazin"
 - [ ] **Previous month learning:** At least one decision on the calendar is visibly informed by last month's performance or lessons (e.g., "shifting away from X type after weak engagement last month")
-- [ ] **Brief completeness:** Each latazin entry contains all 14 fields — no field is left blank or marked "TBD" (risk notes may say "None" if no risks are identified)
+- [ ] **Brief completeness:** Each latazin entry contains all 15 fields — no field is left blank or marked "TBD" (risk notes may say "None" if no risks are identified)
 - [ ] **Downstream usability:** Each latazin brief contains enough context (type, objective, products, persona, tone, page roles) to be passed directly to the latazin content generation prompt
 - [ ] **Voice compliance:** The calendar document itself is written in the house voice — factual, composed, specific
 - [ ] **No banned language:** No phrases from the style guide's banned list appear anywhere in the calendar
