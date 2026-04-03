@@ -4,7 +4,7 @@
 
 The product catalogue is the structured register of every product the brand sells or intends to sell. It is not a storefront listing — it is an editorial inventory. Each entry captures not just what a product is, but what it means: how it photographs, who it speaks to, when it belongs, and what kind of story it can carry.
 
-The catalogue exists so that planning prompts can assign products to latazins with precision. Without it, editorial calendars guess at what to feature. With it, every latazin knows exactly what it has to work with — and what it should leave out.
+The catalogue exists so that planning prompts can assign products to latazins — the editorial stories, arguments, and worlds that form the brand's public surface (see `commerce-latazin-typology.md` for the full typology) — with precision. Without it, editorial calendars guess at what to feature. With it, every latazin knows exactly what it has to work with — and what it should leave out.
 
 ## How This File Is Used in the System
 
