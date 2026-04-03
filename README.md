@@ -97,6 +97,7 @@ The system is organized into four layers:
 
 ```text
 latazin-editorial-operating-system-for-commerce-brands/
+├── CHANGELOG.md
 ├── README.md
 ├── docs/
 │   ├── house/
@@ -120,8 +121,7 @@ latazin-editorial-operating-system-for-commerce-brands/
 │   │   └── latazin-content-generation-prompt.md
 │   └── references/
 │       ├── campaign-pattern-library.md
-│       ├── reference-library.md
-│       └── examples/
+│       └── reference-library.md
 ├── templates/
 │   ├── annual-plan-template.md
 │   ├── quarterly-plan-template.md
@@ -130,12 +130,20 @@ latazin-editorial-operating-system-for-commerce-brands/
 │   └── launch-strategy-template.md
 ├── brands/
 │   ├── _sample-brand/
-│   └── sterling-stitches/
-├── prompts/
-│   ├── system/
-│   ├── planning/
-│   └── generation/
-└── CHANGELOG.md
+│   │   ├── campaigns/
+│   │   ├── calendars/
+│   │   ├── collections/
+│   │   ├── latazins/
+│   │   ├── products/
+│   │   └── README.md
+│   ├── sterling-stitches/
+│   │   ├── campaigns/
+│   │   ├── calendars/
+│   │   ├── collections/
+│   │   ├── latazins/
+│   │   ├── products/
+│   │   └── README.md
+│   └── README.md
 ```
 
 ---
@@ -691,8 +699,8 @@ Latazin should help brands publish product worlds, not just product posts.
 
 ## Status
 
-Early-stage repository.  
-System architecture and core files are being defined.
+Core scaffold complete.  
+Next priority: populate brand-specific data inside `brands/` and run the full annual → quarterly → monthly → latazin cycle with live brand inputs.
 
 ---
 
