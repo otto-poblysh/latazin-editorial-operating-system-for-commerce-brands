@@ -71,9 +71,9 @@ Any additional context that affects editorial planning. This may include: collab
 - **Supporting Notes:** [additional context affecting editorial planning]
 ```
 
-## Example Entry
+## Sample Entry
 
-> This is a placeholder to demonstrate format. Replace with actual brand collections.
+> This is a sample entry showing the schema in use. Replace it with the brand's actual collections and drops or duplicate it as a starting pattern.
 
 ### Studio Line — Spring Reissue
 

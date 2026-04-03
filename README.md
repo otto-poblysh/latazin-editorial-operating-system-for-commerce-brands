@@ -83,7 +83,7 @@ The system is organized into four layers:
    These define the editorial worldview, voice, metaphors, style, and approval standards.
 
 2. **Input documents**  
-   These define what exists to talk about: products, collections, months, occasions, audiences, and prior performance.
+   These define what exists to talk about: products, collections, months, occasions, audiences, and prior performance. In this repository they are reusable templates with sample entries; each company should replace or localize them with its own data.
 
 3. **Planning documents**  
    These generate annual strategy, quarterly planning, and monthly editorial calendars.
@@ -700,6 +700,7 @@ Latazin should help brands publish product worlds, not just product posts.
 ## Status
 
 Core scaffold complete.  
+The repository is intentionally template-first: the house, planning, generation, and template layers ship ready to use, and the input layer ships with sample entries that teams can adapt for their own companies.  
 Next priority: populate brand-specific data inside `brands/` and run the full annual → quarterly → monthly → latazin cycle with live brand inputs.
 
 ---

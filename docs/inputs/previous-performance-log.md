@@ -86,9 +86,9 @@ Optional. Any additional context: platform-specific breakdowns, external factors
 - **Supporting Notes:** [optional additional context]
 ```
 
-## Example Entry
+## Sample Entry
 
-> This is a placeholder to demonstrate format. Replace with actual performance data after publishing.
+> This is a sample entry showing the schema in use. Replace it with the brand's real post-publication data once the system is live.
 
 ### The Case for a Desk You Actually Use
 

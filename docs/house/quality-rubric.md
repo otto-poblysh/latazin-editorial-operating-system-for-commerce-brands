@@ -148,14 +148,14 @@ All content is evaluated across six dimensions. Each dimension has a clear defin
 **Pass criteria:**
 
 - [ ] No spelling, grammar, or punctuation errors
-- [ ] No placeholder text, incomplete sections, or visible template artifacts
+- [ ] No unresolved placeholder text, incomplete sections, or visible template artifacts in the content being reviewed
 - [ ] Product names, prices, and details are accurate and consistent
 - [ ] Image direction (if included) is specific enough to guide photography or selection
 - [ ] The content is the right length for its type — not padded, not truncated
 
 **Fail indicators:**
 
-- Contains "[insert X here]" or similar placeholder text
+- Contains "[insert X here]" or similar unresolved placeholder text in the final output
 - Sections are obviously padded to meet a length requirement
 - Product details contradict each other or are vaguely stated
 - The content feels like a first draft — functional but unpolished
