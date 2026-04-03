@@ -140,7 +140,7 @@
 - **Product Fit:** year-round investment pieces; hero garments for a new year
 - **Supporting Notes:** Coincides with January new-month celebration. See New Month — January entry for combined editorial guidance.
 
-### Workers' Day (Labour Day)
+### Workers' Day (internationally also known as Labour Day)
 
 - **Date or Period:** 1 May
 - **Region Relevance:** Nigeria; global
@@ -148,7 +148,7 @@
 - **Editorial Posture:** editorial-led
 - **Suitable Latazin Types:** Occasion, Manifesto, Craft Study, Calendar Marking
 - **Product Fit:** Labour Day Drop — Adire trousers, Dashiki, White Native Shirt; artisan-made products with provenance story
-- **Supporting Notes:** Coincides with the Labour Day Drop launch and the May new-month celebration. This triple overlap makes May 1 one of the brand's most editorially rich single-day moments. Craft Study latazin connecting the Adire dyeing process to the occasion is a strong editorial choice.
+- **Supporting Notes:** The official Nigerian name is Workers' Day; internationally it is known as Labour Day or International Workers' Day. The brand's collection is named the Labour Day Drop to connect with the broader recognition of the occasion. This occasion coincides with the Labour Day Drop launch and the May new-month celebration — a triple overlap making May 1 one of the brand's most editorially rich single-day moments. Craft Study latazin connecting the Adire dyeing process to the occasion is a strong editorial choice.
 
 ### Democracy Day
 
